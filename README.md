@@ -56,11 +56,11 @@
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**          |            |                                                          |                      |
-| 👂 **Receptor**     |            |                                                          |                      |
-| 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| 🔊 **Emisor**      | Docente y estudiantes   |  El docente transmite instrucciones, contenidos y actividades. Los estudiantes comunican dudas, opiniones y respuestas.                                                        |                      |
+| 👂 **Receptor**     |   Docente y estudiantes         | Reciben y procesan la información compartida durante la clase virtual.                                                         |                      |
+| 🌐 **Canal**        |Medios tecnológicos            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
+| ⚠️ **Ruido**        | Obstáculos en la comunicación           | Ej: desconexión, distracción, mal diseño de contenido    |                      |
+| 🔁 **Retroalimentación** |  Respuestas y participación    | Cómo se completa el circuito                             |                      |
 
 ---
 
