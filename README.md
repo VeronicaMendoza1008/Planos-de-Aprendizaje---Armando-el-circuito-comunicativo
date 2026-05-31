@@ -17,7 +17,7 @@
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Veronica|               |                   |
+|Veronica Mendoza|               |                   |
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
